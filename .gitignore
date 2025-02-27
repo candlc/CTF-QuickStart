@@ -1,2 +1,11 @@
-overrides
 site
+.vscode
+doc
+.DS_Store
+EX
+docs/hc-reverse/change.py
+
+# pdm
+.pdm-python
+pdm.lock
+pyproject.toml
